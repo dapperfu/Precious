@@ -1,0 +1,12 @@
+[submodule ".mk_inc"]
+	path = .mk_inc
+	url = https://github.com/jed-frey/make_sandwich.git
+[submodule "build_caffe"]
+	path = build_caffe
+	url = https://github.com/jed-frey/build_caffe.git
+[submodule "build_caffe2"]
+	path = build_caffe2
+	url = https://github.com/jed-frey/build_caffe2.git
+[submodule "build_opencv"]
+	path = build_opencv
+	url = https://github.com/jed-frey/build_opencv.git
